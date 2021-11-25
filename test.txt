@@ -1,0 +1,15 @@
+{
+    "name": "test",
+    "age": 25,
+    "score": 12.5,
+    "example": [
+        {
+            "name": "testObject",
+            "age": 20
+        },
+        {
+            "name": "testObject2",
+            "age": 22
+        }
+    ]
+}
